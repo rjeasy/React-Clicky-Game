@@ -8,3 +8,4 @@ The React-Clicky-Game is a memory game developed with React. You basically need 
 
 Go ahead and click the following link to preview the completed assignment.
 https://react-cicky-game.herokuapp.com/
+
